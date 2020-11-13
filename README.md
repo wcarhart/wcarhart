@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"><img alt="wcarhart logo" src="logo.png" /></p>
+
+<h1 align="center">hi there 👋</h1>
+<p align="center">my name's Will</p>
 
 <!--
 **wcarhart/wcarhart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
